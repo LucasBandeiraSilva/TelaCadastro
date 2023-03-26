@@ -1,3 +1,4 @@
+//logica dos inputs
 let select = document.getElementById("meu-select");
 let input = document.getElementById("curso");
 let input2 = document.getElementById("disciplina");

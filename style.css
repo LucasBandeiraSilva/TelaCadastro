@@ -44,9 +44,8 @@ label {
 }
 #curso[disabled]{
 cursor: not-allowed;
-background-color: red;
 }
 #disciplina[disabled]{
     cursor: not-allowed;
-    background-color: red;
+
 }
